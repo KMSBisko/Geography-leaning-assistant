@@ -1,6 +1,6 @@
 from WorldWeatherPy import HistoricalLocationWeather
 
-api_key = '05421751ecd24f6e832143543230209'
+api_key = ''
 location_list = ['London', 'New York']
 start_date = '2022-01-01'
 end_date = '2022-01-31'
